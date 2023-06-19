@@ -1,0 +1,10 @@
+In this project i created a web Interface to connect the devices in home and it provides the detail of room tempreture
+we can control home appliance 
+
+
+Requirement for Project:
+1> NodeMcu (CPU esp8266)
+2> 5 v 8 channel relay
+3> dht11 sensor
+4> jumper wire
+5> mini breadboard
